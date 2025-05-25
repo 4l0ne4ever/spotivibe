@@ -1,0 +1,4 @@
+#TODO: This is the GR2 section, so pls hangon 
+add data to seeds
+setup in package.json file:     "seed:albums": "node src/seeds/albums.js"...
+then run npm dev seed:albums
